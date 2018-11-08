@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/hello_world/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hello_world/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hello_world/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/hello_world/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/control_statements/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/control_statements/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/control_statements/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/control_statements/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/ownership/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ownership/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ownership/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/ownership/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/structs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/structs/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/structs/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/structs/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/enums/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/enums/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/enums/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/enums/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/module/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/module/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/module/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/module/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vectors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vectors/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vectors/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vectors/benches" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/control_statements/target" />
+      <excludeFolder url="file://$MODULE_DIR$/enums/target" />
+      <excludeFolder url="file://$MODULE_DIR$/hello_world/target" />
+      <excludeFolder url="file://$MODULE_DIR$/module/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ownership/target" />
+      <excludeFolder url="file://$MODULE_DIR$/structs/target" />
+      <excludeFolder url="file://$MODULE_DIR$/vectors/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,30 @@
+[package]
+name = "enums"
+version = "0.1.0"
+authors = ["Kosorukov Anatoly <java1cprog@yandex.ru>"]
+
+[dependencies]
+
+[[bin]]
+name="enum1"
+path="src/enum1.rs"
+
+[[bin]]
+name="enum2"
+path="src/enum2.rs"
+
+[[bin]]
+name="match1"
+path="src/match1.rs"
+
+[[bin]]
+name="match2"
+path="src/match2.rs"
+
+[[bin]]
+name="match3"
+path="src/match3.rs"
+
+[[bin]]
+name="iflet1"
+path="src/iflet1.rs"

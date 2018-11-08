@@ -1,0 +1,11 @@
+[workspace]
+
+members=[
+"hello_world",
+"control_statements",
+"ownership",
+"structs",
+"enums",
+"module",
+"vectors",
+]

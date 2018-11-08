@@ -1,0 +1,22 @@
+[package]
+name = "structs"
+version = "0.1.0"
+authors = ["Kosorukov Anatoly <java1cprog@yandex.ru>"]
+
+[dependencies]
+
+[[bin]]
+name="struct"
+path="src/struct.rs"
+
+[[bin]]
+name="struct1"
+path="src/struct1.rs"
+
+[[bin]]
+name="struct2"
+path="src/struct2.rs"
+
+[[bin]]
+name="struct3"
+path="src/struct3.rs"
