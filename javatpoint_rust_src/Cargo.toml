@@ -8,4 +8,10 @@ members=[
 "enums",
 "module",
 "vectors",
+"error",
+"generics",
+"smart_pointers",
 ]
+
+[profile]
+# panic = "abort"

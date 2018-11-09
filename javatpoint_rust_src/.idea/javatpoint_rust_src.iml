@@ -30,11 +30,26 @@
       <sourceFolder url="file://$MODULE_DIR$/vectors/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vectors/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/vectors/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/error/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/error/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/error/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/error/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/generics/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generics/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generics/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/generics/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/smart_pointers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/smart_pointers/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/smart_pointers/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/smart_pointers/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/control_statements/target" />
       <excludeFolder url="file://$MODULE_DIR$/enums/target" />
+      <excludeFolder url="file://$MODULE_DIR$/error/target" />
+      <excludeFolder url="file://$MODULE_DIR$/generics/target" />
       <excludeFolder url="file://$MODULE_DIR$/hello_world/target" />
       <excludeFolder url="file://$MODULE_DIR$/module/target" />
       <excludeFolder url="file://$MODULE_DIR$/ownership/target" />
+      <excludeFolder url="file://$MODULE_DIR$/smart_pointers/target" />
       <excludeFolder url="file://$MODULE_DIR$/structs/target" />
       <excludeFolder url="file://$MODULE_DIR$/vectors/target" />
     </content>
